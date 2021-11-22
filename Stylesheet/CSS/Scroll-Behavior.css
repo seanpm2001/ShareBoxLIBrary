@@ -1,0 +1,14 @@
+/* Start of stylesheet */
+/* This stylesheet is for defining scroll behavior of the programs selection */
+class scrollBehaviorCSS {
+  scroll-behavior: auto|smooth|initial|inherit;
+}
+/*Disabled version
+scroll-behavior: disabled|smooth|initial|inherit;
+*/
+/* File info 
+* File type: CSS Stylesheet (*.css)
+* File version: 1 (2021, SUnday, November 21st at 6:33 pm)
+* Line count (including blank lines and compiler line): 15
+*/
+/* End of stylesheet */
