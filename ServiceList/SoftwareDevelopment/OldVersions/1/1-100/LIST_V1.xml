@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<shareboxLIBrary-service-list>
+<xml>
+  <version-control-software-development-list>
+    <!-- List of version control software development social sites !-->
+    <github1><text>GitHub</text><url>https://github.com/</url><privacyFriendly>Unknown</privacyFriendly><owner>Microsoft</owner><vctype>Git</vctype><active>Yes</active><start>2008</start><end>Nil</end></github1>
+    <gitlab1><text>GitLab</text><url>https://gitlab.com</url><privacyFriendly>Yes</privacyFriendly><owner>GitLab Inc.</owner><vctype>Git</vctype><active>Yes</active><start>2014</start><end>Nil</end></gitlab1>
+    <bitbucket1><text>BitBucket</text><url>https://bitbucket.org</url><privacyFriendly>Unknown</privacyFriendly><owner>Atlassian</owner><vctype>Git</vctype><active>Yes</active><start>2008</start><end>Nil</end></bitbucket1>
+    <sourceforge1><text>SourceForge</text><url>https://sourceforge.net</url><privacyFriendly>No</privacyFriendly><owner>SourceForge</owner><vctype>Unknown</vctype><active>Yes</active><start>1999</start><end>Nil</end></sourceforge1>
+    <gerrit1><text>Gerrit</text><url>http://www.gerritcodereview.com/</url><privacyFriendly>No</privacyFriendly><owner>Google</owner><vctype>Git</vctype><active>Yes</active><start>Unknown</start><end>Nil</end></gerrit1>
+    <ignore>
+      <request>Request another entry to add here</request>
+      <docs>
+        <p>Docs</p>
+        <p>Tag 1: the name of the service</p>
+        <p>Tag 2: the link to the service</p>
+        <p>Tag 3: Info on privacy friendliness</p>
+        <p>Tag 4: the owner of the site</p>
+        <p>Tag 5: Version Control type (shortened to vctype)</p>
+        <p>Tag 6: info on if the site is still active or not</p>
+        <p>Tag 7: the start year of the site</p>
+        <p>Tag 8: the end year of the site (set to Nil if it is still active)</p>
+      </docs>
+    </ignore>
+  </version-control-software-development-list>
+</shareboxLIBrary-service-list>
+</xml>
+<!-- File info
+File type: XML document (*.xml)
+File version: 1 (2021, Sunday, November 21st at 9:23 pm
+Line count (including blank lines and compiler line): 33
+!-->
