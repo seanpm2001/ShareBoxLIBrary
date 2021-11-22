@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<shareboxLIBrary-service-list>
+<xml>
+  <audio-sharing-site-list>
+    <!-- List of audio sharing social sites !-->
+    <todo>
+    	<p>This is too much work for one person. I need other contributors to help with this project</p>
+    	<site1><title>audio site 1</title><url>https://www.example.com</url><privacyFriendly>Unknown</privacyFriendly><owner>Unknown</owner><ctype>audio and comments only</ctype><active>Unknown</active><start>1970</start><end>2^128</end></site1>
+    	<toInput>
+	Zedge
+	Bandcamp
+	Newgrounds
+	iTunes
+  	Other sites not listed yet
+    	NSFW sites not listed
+    	</toInput>
+    </todo>
+    <ignore>
+      <request>Request another entry to add here</request>
+      <docs>
+        <p>Docs</p>
+        <p>Tag 1: the name of the service</p>
+        <p>Tag 2: the link to the service</p>
+        <p>Tag 3: Info on privacy friendliness</p>
+        <p>Tag 4: the owner of the site</p>
+        <p>Tag 5: Platform content type (shortened to ctype)</p>
+        <p>Tag 6: info on if the site is still active or not</p>
+        <p>Tag 7: the start year of the site</p>
+        <p>Tag 8: the end year of the site (set to Nil if it is still active)</p>
+      </docs>
+    </ignore>
+  </audio-sharing-site-list>
+</shareboxLIBrary-service-list>
+</xml>
+<!-- File info
+File type: XML document (*.xml)
+File version: 1 (2021, Sunday, November 21st at 10:08 pm
+Line count (including blank lines and compiler line): 40
+!-->
