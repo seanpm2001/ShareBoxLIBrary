@@ -2,20 +2,21 @@
 <shareboxLIBrary-service-list>
 <xml>
   <message-sharing-site-list>
-    <!-- List of message sharing social sites !-->
+    <!-- List of message sharing social sites (instant messaging services) !-->
     <todo>
     	<p>This is too much work for one person. I need other contributors to help with this project</p>
     	<site1><title>message site 1</title><url>https://www.example.com</url><privacyFriendly>Unknown</privacyFriendly><owner>Unknown</owner><ctype>message and comments only</ctype><active>Unknown</active><start>1970</start><end>2^128</end></site1>
     	<toInput>
 	Telegram
 	Signal
-	Kik
+	Kik (not recommended)
 	Discord
 	Skype
 	Microsoft Teams
-	Slack
-	FaceBook
-	FaceBook Messenger
+	Slack (not recommended)
+	FaceBook (not recommended)
+	FaceBook Messenger (not recommended)
+  Snapchat (not recommended)
   	Other sites not listed yet
     	NSFW sites not listed
     	</toInput>
@@ -39,6 +40,6 @@
 </xml>
 <!-- File info
 File type: XML document (*.xml)
-File version: 1 (2021, Sunday, November 21st at 10:04 pm
-Line count (including blank lines and compiler line): 45
+File version: 2 (2021, Friday, November 26th at 9:18 pm
+Line count (including blank lines and compiler line): 46
 !-->
